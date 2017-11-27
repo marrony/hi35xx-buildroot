@@ -1,1 +1,1 @@
-KERNEL=="fusion[0-9]*", NAME="fusion/%n", GROUP="video", MODE="0660"
+KERNEL=="fuse", MODE="0666"
